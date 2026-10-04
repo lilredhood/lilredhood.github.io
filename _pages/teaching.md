@@ -20,7 +20,7 @@ Exploration of battery time series, state-of-charge dynamics, and identification
 <a href="/assets/notebooks/TP1_battery_time_series_JAX_.ipynb" download>
   Download notebook
 </a>
----
+
 ### TP2 — Battery Ageing with Neural ODEs
 
 Introduction to hybrid modelling of battery ageing with Neural ODEs.
@@ -30,7 +30,7 @@ Starting from a calibrated electrical model, the ageing dynamics of capacity and
 <a href="/assets/notebooks/TP2_Neural_ODE_flotte.ipynb" download>
   Download notebook
 </a>
----
+
 ### TP3 — Discovering Ageing Laws with SINDy
 
 Extraction of interpretable ageing laws from a previously trained Neural ODE.
