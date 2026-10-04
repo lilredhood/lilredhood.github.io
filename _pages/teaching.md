@@ -31,9 +31,9 @@ Introduction to hybrid modelling of battery ageing with Neural ODEs.
 
 Starting from a calibrated electrical model, the ageing dynamics of capacity and internal resistance are learned from synthetic vehicle time series. The model is then extended from a single vehicle to a fleet, with an introduction to history-dependent ageing and memory effects.
 
-[Download notebook](/assets/notebooks/TP2_neural_ode_battery_ageing.ipynb)
+[Download notebook](/assets/notebooks/TP2_Neural_ODE_flotte.ipynb)
 
-[Open in Colab](https://colab.research.google.com/github/lilredhood/lilredhood.github.io/blob/main/assets/notebooks/TP2_neural_ode_battery_ageing.ipynb)
+[Open in Colab](https://colab.research.google.com/github/lilredhood/lilredhood.github.io/blob/main/assets/notebooks/TP2_Neural_ODE_flotte.ipynb)
 
 
 ### TP3 — Discovering Ageing Laws with SINDy
@@ -42,6 +42,6 @@ Extraction of interpretable ageing laws from a previously trained Neural ODE.
 
 The learned continuous dynamics are sampled and analysed using sparse regression and SINDy in order to recover compact symbolic equations describing capacity fade and resistance growth.
 
-[Download notebook](/assets/notebooks/TP3_sindy_neural_ode.ipynb)
+[Download notebook](/assets/notebooks/TP3_SINDy_from_Neural_ODE.ipynb)
 
-[Open in Colab](https://colab.research.google.com/github/lilredhood/lilredhood.github.io/blob/main/assets/notebooks/TP3_sindy_neural_ode.ipynb)
+[Open in Colab](https://colab.research.google.com/github/lilredhood/lilredhood.github.io/blob/main/assets/notebooks/TP3_SINDy_from_Neural_ODE.ipynb)
