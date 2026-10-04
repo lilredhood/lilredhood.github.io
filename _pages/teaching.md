@@ -15,28 +15,20 @@ nav_order: 2
 
 ### TP1 — Battery Time Series & Electrical Modelling
 
-Exploration of battery time series, state-of-charge dynamics, and identification of a simple equivalent-circuit electrical model.
+[Open in Colab](https://colab.research.google.com/github/lilredhood/lilredhood.github.io/blob/main/assets/notebooks/TP1_battery_time_series_JAX_.ipynb)
 
-<a href="/assets/notebooks/TP1_battery_time_series_JAX_.ipynb" download>
-  Download notebook
-</a>
+[Download notebook](https://raw.githubusercontent.com/lilredhood/lilredhood.github.io/main/assets/notebooks/TP1_battery_time_series_JAX_.ipynb)
+
 
 ### TP2 — Battery Ageing with Neural ODEs
 
-Introduction to hybrid modelling of battery ageing with Neural ODEs.
+[Open in Colab](https://colab.research.google.com/github/lilredhood/lilredhood.github.io/blob/main/assets/notebooks/TP2_Neural_ODE_flotte.ipynb)
 
-Starting from a calibrated electrical model, the ageing dynamics of capacity and internal resistance are learned from synthetic vehicle time series. The model is then extended from a single vehicle to a fleet, with an introduction to history-dependent ageing and memory effects.
+[Download notebook](https://raw.githubusercontent.com/lilredhood/lilredhood.github.io/main/assets/notebooks/TP2_Neural_ODE_flotte.ipynb)
 
-<a href="/assets/notebooks/TP2_Neural_ODE_flotte.ipynb" download>
-  Download notebook
-</a>
 
 ### TP3 — Discovering Ageing Laws with SINDy
 
-Extraction of interpretable ageing laws from a previously trained Neural ODE.
+[Open in Colab](https://colab.research.google.com/github/lilredhood/lilredhood.github.io/blob/main/assets/notebooks/TP3_SINDy_from_Neural_ODE.ipynb)
 
-The learned continuous dynamics are sampled and analysed using sparse regression and SINDy in order to recover compact symbolic equations describing capacity fade and resistance growth.
-
-<a href="/assets/notebooks/TP3_SINDy_from_Neural_ODE.ipynb" download>
-  Download notebook
-</a>
+[Download notebook](https://raw.githubusercontent.com/lilredhood/lilredhood.github.io/main/assets/notebooks/TP3_SINDy_from_Neural_ODE.ipynb)
