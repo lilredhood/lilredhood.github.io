@@ -2,14 +2,21 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Teaching material and practical sessions.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 2
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Practical sessions
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+### Scientific Machine Learning
 
-{% include courses.liquid %}
+- Neural ODEs
+- SINDy
+- Physics-Informed Neural Networks
+
+### Time Series & Battery Modelling
+
+- Time-series exploration
+- Electrical model identification
+- Battery ageing modelling
