@@ -12,8 +12,6 @@ nav_order: 2
 >
 > First download the notebook using the **Download notebook** link below.
 > Then open [Google Colab](https://colab.research.google.com/), choose **Upload**, and select the downloaded `.ipynb` file.
->
-> The direct **Open in Colab** link may also work, but downloading the notebook first is the recommended method.
 
 
 ### TP1 — Battery Time Series & Electrical Modelling
@@ -21,9 +19,6 @@ nav_order: 2
 Exploration of battery time series, state-of-charge dynamics, and identification of a simple equivalent-circuit electrical model.
 
 [Download notebook](/assets/notebooks/TP1_battery_time_series_JAX.ipynb)
-
-[Open in Colab](https://colab.research.google.com/github/lilredhood/lilredhood.github.io/blob/main/assets/notebooks/TP1_battery_time_series_JAX.ipynb)
-
 
 ### TP2 — Battery Ageing with Neural ODEs
 
@@ -33,8 +28,6 @@ Starting from a calibrated electrical model, the ageing dynamics of capacity and
 
 [Download notebook](/assets/notebooks/TP2_Neural_ODE_flotte.ipynb)
 
-[Open in Colab](https://colab.research.google.com/github/lilredhood/lilredhood.github.io/blob/main/assets/notebooks/TP2_Neural_ODE_flotte.ipynb)
-
 
 ### TP3 — Discovering Ageing Laws with SINDy
 
@@ -43,5 +36,3 @@ Extraction of interpretable ageing laws from a previously trained Neural ODE.
 The learned continuous dynamics are sampled and analysed using sparse regression and SINDy in order to recover compact symbolic equations describing capacity fade and resistance growth.
 
 [Download notebook](/assets/notebooks/TP3_SINDy_from_Neural_ODE.ipynb)
-
-[Open in Colab](https://colab.research.google.com/github/lilredhood/lilredhood.github.io/blob/main/assets/notebooks/TP3_SINDy_from_Neural_ODE.ipynb)
