@@ -18,7 +18,7 @@ nav_order: 2
 
 Exploration of battery time series, state-of-charge dynamics, and identification of a simple equivalent-circuit electrical model.
 
-[Download notebook](/assets/notebooks/TP1_battery_time_series_JAX.ipynb)
+[Download notebook](/assets/notebooks/TP1_battery_time_series_JAX_.ipynb)
 
 ### TP2 — Battery Ageing with Neural ODEs
 
