@@ -2,21 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Teaching material and practical sessions.
 nav: true
 nav_order: 2
 ---
 
 ## Practical sessions
 
-### Scientific Machine Learning
+### TP1 — Time Series & Battery Modelling
 
-- Neural ODEs
-- SINDy
-- Physics-Informed Neural Networks
+Exploration of battery time series and identification of a simple electrical model.
 
-### Time Series & Battery Modelling
+[Open in Colab](https://colab.research.google.com/github/lilredhood/lilredhood.github.io/blob/main/assets/notebooks/TP1_battery_time_series_JAX_.ipynb)
 
-- Time-series exploration
-- Electrical model identification
-- Battery ageing modelling
+[Download notebook](/assets/notebooks/TP1_battery_time_series_JAX_.ipynb)
+
