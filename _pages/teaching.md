@@ -22,13 +22,15 @@ nav_order: 2
 
 ### TP2 — Battery Ageing with Neural ODEs
 
+<!--
 [Open in Colab](https://colab.research.google.com/github/lilredhood/lilredhood.github.io/blob/main/assets/notebooks/TP2_Neural_ODE_flotte.ipynb)
 
 [Download notebook](https://raw.githubusercontent.com/lilredhood/lilredhood.github.io/main/assets/notebooks/TP2_Neural_ODE_flotte.ipynb)
-
+-->
 
 ### TP3 — Discovering Ageing Laws with SINDy
-
+<!--
 [Open in Colab](https://colab.research.google.com/github/lilredhood/lilredhood.github.io/blob/main/assets/notebooks/TP3_SINDy_from_Neural_ODE.ipynb)
 
 [Download notebook](https://raw.githubusercontent.com/lilredhood/lilredhood.github.io/main/assets/notebooks/TP3_SINDy_from_Neural_ODE.ipynb)
+-->
